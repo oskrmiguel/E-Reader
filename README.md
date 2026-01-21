@@ -1,7 +1,13 @@
 # E-Reader
-Aquí algunos links de videos de explicación del funcionamiento del prototipo
 
-## 🎬 Demo del Proyecto
+El archivo principal para la ejecución de la conexión y demás comandos dentro del Jetson Nano se encuentra en el archivo denominado tk.py
+
+## Flujo del funcionamiento del dispositivo E-Reader
+
+<img width="2752" height="1536" alt="Flujo E-reader" src="https://github.com/user-attachments/assets/d87b3cb3-dc38-42eb-90ec-3c16def9b880" />
+
+
+## 🎬 Videos Demo del Proyecto
 
 Haz clic en la imagen para ver el video en YouTube:
 
